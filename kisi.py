@@ -12,3 +12,5 @@ class Kisi:
 kisi1=Kisi("Cahit",35)
 kisi1.karsilama()
 
+kisi3=Kisi("Erdal",41)
+kisi.karsilama()
